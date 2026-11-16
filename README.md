@@ -23,9 +23,14 @@ Consolidar os conhecimentos de estruturação semântica e estilização moderna
 pit-wall/
 ├── index.html
 ├── styles.css
+├── img/
+    └── piloto.jpg
+    
+---
 
 ## 👨‍💻 Autor(a)
  - **Leticia Alves Ferreira**
-- 📚 Curso: Desenvolvimento de Sistemas / 1IG-DS
-└── img/
-    └── piloto.jpg
+   
+ ## 📚 Curso
+ - Desenvolvimento de Sistemas (1IG-DS)
+
