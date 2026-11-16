@@ -20,11 +20,11 @@ Consolidar os conhecimentos de estruturação semântica e estilização moderna
 
 ## 📂 Estrutura de Pastas
 
-pit-wall/
-├── index.html
-├── styles.css
-├── img/
-    └── piloto.jpg
+-pit-wall/
+-├── index.html
+-├── styles.css
+-├── img/
+-    └── piloto.jpg
     
 ---
 
